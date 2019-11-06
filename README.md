@@ -22,7 +22,7 @@ We will evaluate both your javascript and css. Please note that we will be payin
 
 1. Fork this repo.
 2. Do your magic. You can change anything you want to except `modules/api`.
-3. Submit a PR **to your own fork** or send us a ZIP file via e-mail.
+3. Submit a PR **to your own fork**.
 
 ## ⚠️
 
